@@ -21,11 +21,11 @@ The interactive dashboard provides real-time insights into total sales, average 
 ✅ Outlet Type KPI Table (Average Sale, Rating, Visibility)
 
 ## Tools & Technologies Used
-  Tool & Tech	                                      Purpose
-Power BI Desktop	                      Data modeling, report creation, DAX
-DAX (Data Analysis Expressions)	        Measures & calculated columns
-Power Query Editor	                    Data cleaning and transformation
-Data Viz Components	                    Donut Charts, Bar Graphs, Line Charts, KPI Cards, Slicers
+    Tool & Tech	                                      Purpose
+* Power BI Desktop	                       Data modeling, report creation, DAX
+* DAX (Data Analysis Expressions)	        Measures & calculated columns
+* Power Query Editor	                     Data cleaning and transformation
+* Data Viz Components	                    Donut Charts, Bar Graphs, Line Charts, KPI Cards, Slicers
 
 ## Business Insights
 
@@ -50,4 +50,4 @@ Customer behavior analysis
 Sales trend monitoring
 
 ## Screenshot/Demo
- Show what the dashboard looks like -->(
+ Show what the dashboard looks like -->(https://github.com/Durvesh-kumar2001/Blinkit_PowerBi_Dashboard/blob/main/Screenshot%202025-09-03%20221449.png)
